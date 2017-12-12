@@ -1,50 +1,50 @@
-°²×°Git
-Git¹ÙÍø£ºhttps://git-scm.com
-±¸ÓÃÍøÕ¾£ºhttp://bbs.fishc.com/forum-334-1.html
+å®‰è£…Git
+Gitå®˜ç½‘ï¼šhttps://git-scm.com
+å¤‡ç”¨ç½‘ç«™ï¼šhttp://bbs.fishc.com/forum-334-1.html
 
-ÅäÖÃGit
-ÔÚÃüÁîĞĞÄ£Ê½ÀïÊäÈëÒÔÏÂÃüÁî£º
-git config --global user.name  "ÓÃ»§Ãû"
-git config --global user.email "ÓÊÏä"
+é…ç½®Git
+åœ¨å‘½ä»¤è¡Œæ¨¡å¼é‡Œè¾“å…¥ä»¥ä¸‹å‘½ä»¤ï¼š
+git config --global user.name  "ç”¨æˆ·å"
+git config --global user.email "é‚®ç®±"
 git config --list  
 
-Èı¿ÃÊ÷ÀíÂÛÔ­Àí£º
-¹¤×÷Çø
-Ôİ´æÇø
-Git²Ö¿â
+ä¸‰æ£µæ ‘ç†è®ºåŸç†ï¼š
+å·¥ä½œåŒº
+æš‚å­˜åŒº
+Gitä»“åº“
 
-ÊµÕ½
-git init  ³õÊ¼»¯
+å®æˆ˜
+git init  åˆå§‹åŒ–
 git add  README.md
 git commit -m "add a README.md file"
 
-²é¿´×´Ì¬
+æŸ¥çœ‹çŠ¶æ€
 git status
 
-MITĞ­Òé
+MITåè®®
 License
 
-²é¿´ÀúÊ·Ìá½»¼ÇÂ¼
+æŸ¥çœ‹å†å²æäº¤è®°å½•
 git log
-git reset mixed HEAD~ »ØÍË°æ±¾
+git reset mixed HEAD~ å›é€€ç‰ˆæœ¬
 git reset soft HEAD~
 get reset hard head~
 
-»Ø¹öÖ¸¶¨¿ìÕÕ
-git reset  ¿ìÕÕµÄid
+å›æ»šæŒ‡å®šå¿«ç…§
+git reset  å¿«ç…§çš„id
 
-±È½ÏÔİ´æÇø ¹¤×÷ÇøÓò
+æ¯”è¾ƒæš‚å­˜åŒº å·¥ä½œåŒºåŸŸ
 git diff
 
-ÉÏÃæ²Ù×÷ ÊµÔÚ±¾µØ½øĞĞ¹ÜÀí
+ä¸Šé¢æ“ä½œ å®åœ¨æœ¬åœ°è¿›è¡Œç®¡ç†
 
 github
-´´½¨²Ö¿â£ºhttps://github.com/new
+åˆ›å»ºä»“åº“ï¼šhttps://github.com/new
 https://github.com/nihao123456/project_test
-ÔÚ·şÎñÆ÷ÉÏ´´½¨²Ö¿â
-È»ºópushµ½·şÎñÆ÷²Ö¿âÉÏÃæ
+åœ¨æœåŠ¡å™¨ä¸Šåˆ›å»ºä»“åº“
+ç„¶åpushåˆ°æœåŠ¡å™¨ä»“åº“ä¸Šé¢
 
-ÕËºÅÃÜÂë
+è´¦å·å¯†ç 
 1904480486@qq.com
 qq9921217
 
@@ -53,7 +53,7 @@ qq19921217
 
 
 
-
+è®¸åº·ä¿®æ”¹ 2017 12 13
 git commit
 git init
 git add <file>
@@ -63,10 +63,10 @@ git diff
 git checkout
  git log
 git log pretty=oneline
-ssh-keygen.exe -t rsa Éú³ÉÃÜÔ¿¶Ó
-git clone <µØÖ·> ¿ËÂ¡
-mkdir <ÎÄ¼şÃû³Æ> ´´½¨ÎÄ¼ş
-rm -rf <ÎÄ¼şÃû³Æ> É¾³ıÎÄ¼şÃû³Æ
+ssh-keygen.exe -t rsa ç”Ÿæˆå¯†é’¥é˜Ÿ
+git clone <åœ°å€> å…‹éš†
+mkdir <æ–‡ä»¶åç§°> åˆ›å»ºæ–‡ä»¶
+rm -rf <æ–‡ä»¶åç§°> åˆ é™¤æ–‡ä»¶åç§°
 git push
 git pull
 
