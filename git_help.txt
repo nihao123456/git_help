@@ -1,0 +1,83 @@
+安装Git
+Git官网：https://git-scm.com
+备用网站：http://bbs.fishc.com/forum-334-1.html
+
+配置Git
+在命令行模式里输入以下命令：
+git config --global user.name  "用户名"
+git config --global user.email "邮箱"
+git config --list  
+
+三棵树理论原理：
+工作区
+暂存区
+Git仓库
+
+实战
+git init  初始化
+git add  README.md
+git commit -m "add a README.md file"
+
+查看状态
+git status
+
+MIT协议
+License
+
+查看历史提交记录
+git log
+git reset mixed HEAD~ 回退版本
+git reset soft HEAD~
+get reset hard head~
+
+回滚指定快照
+git reset  快照的id
+
+比较暂存区 工作区域
+git diff
+
+上面操作 实在本地进行管理
+
+github
+创建仓库：https://github.com/new
+https://github.com/nihao123456/project_test
+在服务器上创建仓库
+然后push到服务器仓库上面
+
+账号密码
+1904480486@qq.com
+qq9921217
+
+baiyexing
+qq19921217
+
+
+
+
+git commit
+git init
+git add <file>
+git commit
+git reset --hard head^
+git diff
+git checkout
+ git log
+git log pretty=oneline
+ssh-keygen.exe -t rsa 生成密钥队
+git clone <地址> 克隆
+mkdir <文件名称> 创建文件
+rm -rf <文件名称> 删除文件名称
+git push
+git pull
+
+
+
+
+
+
+
+
+
+
+
+
